@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently a graduated student
-- 🌱 I’m currently learning fullstack, c++, python, answering strange questions from interviewers.
+- 🔭 I’m currently a softwawre developer @Ericsson
+- 🌱 I’m currently learning fullstack, c++, python.
 - 📫 How to reach me: cau_chy@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=xigou)
