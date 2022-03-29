@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently a softwawre developer @Ericsson
-- 🌱 I’m currently learning fullstack, c++, python.
+- Used to work @Ericsson
+- 🔭 I’m currently a softwawre developer @SMARTX
+- 🌱 I’m currently learning fullstack, c++, python, distributed system.
 - 📫 How to reach me: cau_chy@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=xigou)
