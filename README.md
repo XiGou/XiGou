@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - Used to work @Ericsson
 - 🔭 I’m currently a softwawre developer @SMARTX
 - 🌱 I’m currently learning fullstack, c++, python, distributed system.
-- 📫 How to reach me: cau_chy@foxmail.com
+- 📫 How to reach me: cau_chy@foxmail.com, gouxivae@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=xigou)
